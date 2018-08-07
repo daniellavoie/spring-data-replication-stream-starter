@@ -1,6 +1,6 @@
 # Spring Cloud Data Replication Stream Starter
 
-Extension mechasnisme that allows to notify CRUD operation from a Spring Data JPA Repository to a Spring Cloud Stream queue.
+Extension mechanism that allows to notify CRUD operation from a Spring Data JPA Repository to a Spring Cloud Stream queue.
 
 ## Projects
 
